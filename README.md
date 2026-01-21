@@ -122,6 +122,6 @@ The cleaned dataset was analyzed in Power BI using an interactive dashboard to v
 
 ### Email: chimudinduifeanyi@gmail.com
 ### WhatSapp: +2349032085385
-### LinkendIn: 
+### LinkendIn: https://www.linkedin.com/in/chimudindu-ifeanyi-72b3371a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 

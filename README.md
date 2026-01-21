@@ -25,7 +25,7 @@ The dataset contains Amazon product sales information including:
 - Username
 - Review Content
 
-! [Raw Data]
+![Raw Data]
 
 ## Data Cleaning Process
 The data cleaning was performed using both Excel and Power Query and included:

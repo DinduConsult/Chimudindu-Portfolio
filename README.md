@@ -2,8 +2,8 @@
    <STRONG>CHIMUDINDU PORTFOLIO</STRONG>
 </p>
 
-[ABOUT ME](#about-me)
-[PROJECT OVERVIEW](#project-0verview)
+[About Me](#about-me)
+[Project Overview](#project-0verview)
 [TOOLS USED](#tools-used)
 [DATA DESCRIPTION](#data-description)
 [DATA CLEANING PROCESS](#data-cleaning-process)

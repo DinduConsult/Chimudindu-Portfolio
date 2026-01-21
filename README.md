@@ -4,7 +4,7 @@
 
 [ABOUT ME](#about-me)
 
-[PROJECT OVERVIEW](#project-0verview)
+[PROJECT OVERVIEW](#project-overview)
 
 [TOOLS USED](#tools-used)
 

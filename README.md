@@ -20,11 +20,10 @@
 # About Me
  
 <p align="center"> 
-  <STRONG> **Data Analyst | Excel | Power Query | Power BI**</STRONG>
+  <STRONG>Data Analyst | Excel | Power Query | Power BI</STRONG>
 </p>
 
-Hi, I am Chimudindu Ifeanyi
-I turn messy data into actionable insights using excel, Power Query, and Power BI. 
+I am Chimudindu Ifeanyi, I turn messy data into actionable insights using excel, Power Query, and Power BI. 
 I specialize in cleaning, analyzing, and visualizing data to help businesses make data-driven decisions.
 
 

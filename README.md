@@ -25,8 +25,10 @@
   <STRONG>Data Analyst | Excel | Power Query | Power BI</STRONG>
 </p>
 
-I am Chimudindu Ifeanyi, I turn messy data into actionable insights using excel, Power Query, and Power BI. 
-I specialize in cleaning, analyzing, and visualizing data to help businesses make data-driven decisions.
+I am a data analyst with hands-on experience using Excel, Power Query, and Power BI to clean, analyze, and visualize data. 
+I enjoy transforming raw, messy datasets into clear insights and dashboards that support data-driven decision-making.
+
+This portfolio showcases my practical projects, including data cleaning, analysis, and visualization using real-world datasets.
 
 ---
 

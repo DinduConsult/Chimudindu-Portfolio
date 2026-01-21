@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/eead069e-1e40-41f9-b912-d7c457c368f3" /><img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/f436925d-4be1-404f-bbe7-0ffb9066359f" /># Amazon Salaes Analysis (Excel & Power BI)
+# Amazon Salaes Analysis (Excel & Power BI)
 ## Project Overview
 This project analyzes Amazon sales data to understand product performance, pricing, discounts, ratings, and customer sentiment.
 

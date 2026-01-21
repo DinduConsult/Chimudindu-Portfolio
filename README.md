@@ -118,4 +118,10 @@ The cleaned dataset was analyzed in Power BI using an interactive dashboard to v
 - Power BI dashboard file
 - Dashboard Screenshots
 
+## Contact
+
+### Email: chimudinduifeanyi@gmail.com
+### WhatSapp: +2349032085385
+### LinkendIn: 
+
 

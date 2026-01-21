@@ -17,7 +17,11 @@
 [CONTACT](#contact)
 
 
-## About Me
+# About Me
+Hi, I am Chimudindu Ifeanyi 
+**Data Analyst | Excel | Power Query | Power BI**
+I turn messy data into actionable insights using excel, Power Query, and Power BI. 
+I specialize in cleaning, analyzing, and visualizing data to help businesses make data-driven decisions.
 
 
 # Amazon Salaes Analysis (Excel & Power BI)

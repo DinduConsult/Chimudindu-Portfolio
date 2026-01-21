@@ -2,6 +2,17 @@
    <STRONG>CHIMUDINDU PORTFOLIO</STRONG>
 </p>
 
+[ABOUT ME](#about-me)
+[PROJECT OVERVIEW](#project-0verview)
+[TOOLS USED](#tools-used)
+[DATA DESCRIPTION](#data-description)
+[DATA CLEANING PROCESS](#data-cleaning-process)
+[DATA ANALYSIS AND VISUALIZATION](#data-analysis-and-visualization)
+[CONTACT](#contact)
+
+
+## About Me
+
 
 # Amazon Salaes Analysis (Excel & Power BI)
 ## Project Overview

@@ -1,3 +1,8 @@
+<p align="center">
+   <STRONG>CHIMUDINDU PORTFOLIO</STRONG>
+</p>
+
+
 # Amazon Salaes Analysis (Excel & Power BI)
 ## Project Overview
 This project analyzes Amazon sales data to understand product performance, pricing, discounts, ratings, and customer sentiment.

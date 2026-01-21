@@ -25,7 +25,7 @@ The dataset contains Amazon product sales information including:
 - Username
 - Review Content
 
-[ Go to Raw Data](Raw%20Data)
+[ Open Raw Data](Raw%20Data/)
 
 
 

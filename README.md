@@ -7,9 +7,13 @@
 [PROJECT OVERVIEW](#project-0verview)
 
 [TOOLS USED](#tools-used)
+
 [DATA DESCRIPTION](#data-description)
+
 [DATA CLEANING PROCESS](#data-cleaning-process)
+
 [DATA ANALYSIS AND VISUALIZATION](#data-analysis-and-visualization)
+
 [CONTACT](#contact)
 
 

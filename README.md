@@ -17,6 +17,8 @@
 [CONTACT](#contact)
 
 
+---
+
 # About Me
  
 <p align="center"> 
@@ -26,19 +28,24 @@
 I am Chimudindu Ifeanyi, I turn messy data into actionable insights using excel, Power Query, and Power BI. 
 I specialize in cleaning, analyzing, and visualizing data to help businesses make data-driven decisions.
 
+---
 
-# Amazon Salaes Analysis (Excel & Power BI)
+## Amazon Salaes Analysis (Excel & Power BI)
 ## Project Overview
 This project analyzes Amazon sales data to understand product performance, pricing, discounts, ratings, and customer sentiment.
 
 The analysis was carried out using Microsoft Excel and Power Query for data cleaning, and Power BI for visualization.
 
-## Tools Used
+---
+
+# Tools Used
 - Microsoft Excel
 - Power Query
 - Power BI
 
-## Data Description
+---
+
+# Data Description
 The dataset contains Amazon product sales information including:
 - Product ID
 - Product Name
@@ -62,8 +69,10 @@ The dataset contains Amazon product sales information including:
 
 <img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/28d609d3-8f3b-4f66-bf84-efb74544c4de" />
 
+---
 
-## Data Cleaning Process
+
+# Data Cleaning Process
 The data cleaning was performed using both Excel and Power Query and included:
 - Removing duplicate records
 - Cleaning the Product name
@@ -86,7 +95,9 @@ The data cleaning was performed using both Excel and Power Query and included:
 
 <img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/8b9765fc-6ef9-48aa-a326-67f5d4784cf2" />
 
-## Data Analysis and Visualization
+---
+
+# Data Analysis and Visualization
 The cleaned dataset was analyzed in Power BI using an interactive dashboard to visualize:
 - Total Items
 - Total rating count
@@ -107,18 +118,25 @@ The cleaned dataset was analyzed in Power BI using an interactive dashboard to v
 
 <img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/ec019303-34f2-4ab5-b60c-92661eb269c2" />
 
-## Key Insights
+---
+
+# Key Insights
 - Most products have ratings clustered between 4.0 and 4.5
 - A small number of products accounts for a large share of total rating
 - Discounted pricing plays a significant role in produt performance
 - Positive sentiment dominate customer reviews across top products.
 
-##  Files in This Repository
+---
+
+#  Files in This Repository
 - Excel files containing raw and cleaned data
 - Power BI dashboard file
 - Dashboard Screenshots
 
-## Contact
+---
+
+# Contact
+Feel free to reach out for data analyst roles, collaborations, or project discussions. 
 
 ### Email: chimudinduifeanyi@gmail.com
 ### WhatSapp: +2349032085385
